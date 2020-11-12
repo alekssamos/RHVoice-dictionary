@@ -12,6 +12,10 @@ RHVoice-dictionary
 ### WINDOWS
 * Путь для русских словарей: `%AppData%\RHVoice\dicts\Russian\`
 
+### NVDA
+* Установочная версия: `%AppData%\nvda\RHVoice-config\dicts\Russian\`
+* Переносная версия: `.\userConfig\RHVoice-config\dicts\Russian\`
+
 ### ANDROID
 * Путь для русских словарей: `/sdcard/Android/data/com.github.olga_yakovleva.rhvoice.android/files/dicts/Russian/`
 
