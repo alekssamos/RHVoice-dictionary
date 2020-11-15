@@ -1,23 +1,25 @@
 RHVoice-dictionary
 ==================
 
-Русский словарь в формате поддерживаемом [RHVoice](https://github.com/Olga-Yakovleva/RHVoice) v0.5+
+Словарь в формате поддерживаемом [RHVoice](https://github.com/Olga-Yakovleva/RHVoice) v0.5+
 
 ## Установка словаря
+Я сделал реструктурезацию,
+> теперь в репозитории лежит прямо папка которую можно скопировать по пути  `rhvoice` или `rhvoice_config`,
+> Не нужно руками создавать папки `dicts` и `Russian`, Можно добавлять не только русские.
 
 ### LINUX
-* Пакет в AUR для Arch пользователей [rhvoice-dictionary-git](https://aur.archlinux.org/packages/rhvoice-dictionary-git/)
-* Остальным, положить словари в директорию со словарями (по умолчанию `/etc/RHVoice/dicts/Russian/`)
+* скопировать папку `dicts` в `/etc/RHVoice/`
 
 ### WINDOWS
-* Путь для русских словарей: `%AppData%\RHVoice\dicts\Russian\`
+* `%AppData%\RHVoice\`
 
 ### NVDA
-* Установочная версия: `%AppData%\nvda\RHVoice-config\dicts\Russian\`
-* Переносная версия: `.\userConfig\RHVoice-config\dicts\Russian\`
+* Установочная версия: `%AppData%\nvda\RHVoice-config\`
+* Переносная версия: `.\userConfig\RHVoice-config\`
 
 ### ANDROID
-* Путь для русских словарей: `/sdcard/Android/data/com.github.olga_yakovleva.rhvoice.android/files/dicts/Russian/`
+*  `/sdcard/Android/data/com.github.olga_yakovleva.rhvoice.android/files/`
 
 Примечание: После добавления словарей синтезатор необходимо перезагрузить (закрыть все программы, которые его используют), чтобы новые словари начали действовать.
 
