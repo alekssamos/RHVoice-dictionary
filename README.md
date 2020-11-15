@@ -1,7 +1,7 @@
 RHVoice-dictionary
 ==================
 
-[Скачать .ZIP / Download .ZIP](https://github.com/alekssamos/RHVoice-dictionary/archive/master.zip)
+> [Скачать .ZIP / Download .ZIP](https://github.com/alekssamos/RHVoice-dictionary/archive/master.zip)
 Словарь в формате поддерживаемом [RHVoice](https://github.com/Olga-Yakovleva/RHVoice) v0.5+
 
 ## Установка словаря
